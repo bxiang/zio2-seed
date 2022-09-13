@@ -1,0 +1,10 @@
+.tags
+.idea/
+.bsp/
+project/target/
+metals.sbt
+target/
+.metals/
+.bloop/
+*.class
+.vscode/
